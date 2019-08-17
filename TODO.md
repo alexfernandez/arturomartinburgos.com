@@ -24,5 +24,5 @@ x Move `contacta.html` to `/contacta/`.
 x Move `arturo.html` to `/arturo/`.
 * Remove `promote.html`.
 x Add links to `/escena/index.html`.
-* Fix remaining `"pintura/"`.
+x Fix remaining `"pintura/"`.
 
