@@ -18,7 +18,7 @@ x Remove spaces from logo names.
 * Select and copy `images/_musica`.
 x Remove `contacta_peq.html` & `contacta_peq_info.html`.
 x Remove `gracias_peq.html`.
-x Remove `preloadImages()`.
+x Remove `MM_preloadImages()`.
 x Remove `images/premios.html`.
 x Move `contacta.html` to `/contacta/`.
 x Move `arturo.html` to `/arturo/`.
@@ -30,4 +30,5 @@ x Use absolute links for `sitemap.html`.
 * Remove link to ideash.org.
 * Convert to UTF-8 with `<meta charset="utf-8" />`.
 * Remove "exposición virtual", convert to images.
+* Remove `MM_reloadPage()` and `MM_openBrWindow()`.
 
