@@ -7,7 +7,7 @@ x Move pintura.html to pintura/index.html.
 * Move `images/_pdf` to `pdf`.
 x Move `index_1.html` to `index.html`.
 * Remove obsolete files.
-* Use absolute image links "/images/".
+x Use absolute image links "/images/".
 x Remove `nav.swf`.
 x Remove spaces from logo names.
 * Remove `/huelva/prensa_huelva.html`.
@@ -24,5 +24,5 @@ x Move `contacta.html` to `/contacta/`.
 x Move `arturo.html` to `/arturo/`.
 * Remove `promote.html`.
 x Add links to `/escena/index.html`.
-x Fix remaining `"pintura/"`.
+x Use absolute links for `sitemap.html`.
 
