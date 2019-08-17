@@ -19,4 +19,5 @@ x Remove spaces from logo names.
 x Remove `contacta_peq.html` & `contacta_peq_info.html`.
 x Remove `gracias_peq.html`.
 x Remove `preloadImages()`.
+x Remove `images/premios.html`.
 
