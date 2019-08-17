@@ -17,4 +17,5 @@ x Remove spaces from logo names.
 * Select and copy `images/_intimidad`.
 * Select and copy `images/_musica`.
 x Remove `contacta_peq.html` & `contacta_peq_info.html`.
+x Remove `gracias_peq.html`.
 
