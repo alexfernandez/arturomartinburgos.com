@@ -1,7 +1,7 @@
-* Remove logo images/logo.nabrom.tiff.
+x Remove logo images/logo.nabrom.tiff.
 x Move `_escenog.html` to `escena/index.html`.
 x Move pintura.html to pintura/index.html.
-* Move objetos.html to objetos/index.html.
+x Move objetos.html to objetos/index.html.
 * Move `images/__noticias` to `images/noticias`.
 * Move `images/__eboletines` to `images/eboletines`.
 * Move `images/_pdf` to `pdf`.
