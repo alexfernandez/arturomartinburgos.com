@@ -20,7 +20,7 @@ x Remove `contacta_peq.html` & `contacta_peq_info.html`.
 x Remove `gracias_peq.html`.
 x Remove `preloadImages()`.
 x Remove `images/premios.html`.
-* Move `contacta.html` to `/contacta/`.
+x Move `contacta.html` to `/contacta/`.
 * Move `arturo.html` to `/arturo/`.
 * Remove `promote.html`.
 * Add links to `/escena/index.html`.
