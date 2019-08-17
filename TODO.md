@@ -10,4 +10,7 @@ x Move `index_1.html` to `index.html`.
 * Use absolute image links "/images/".
 * Remove `nav.swf`.
 x Remove spaces from logo names.
+* Remove `/huelva/prensa_huelva.html`.
+* Remove `images/__noticias/atelier_triptico.pdf`.
+* Remove `images/__noticias/exp_mostoles.mp3`.
 
