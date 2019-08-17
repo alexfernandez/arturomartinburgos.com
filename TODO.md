@@ -4,8 +4,10 @@ x Move pintura.html to pintura/index.html.
 * Move objetos.html to objetos/index.html.
 * Move `images/__noticias` to `images/noticias`.
 * Move `images/__eboletines` to `images/eboletines`.
-* Move `images/_pdf` to `images/pdf`.
+* Move `images/_pdf` to `pdf`.
 x Move `index_1.html` to `index.html`.
-* Removed obsolete files.
+* Remove obsolete files.
 * Use absolute image links "/images/".
+* Remove `nav.swf`.
+x Remove spaces from logo names.
 
