@@ -28,4 +28,6 @@ x Use absolute links for `sitemap.html`.
 * Remove useless js in /escena/.
 * Update Copyright.
 * Remove link to ideash.org.
+* Convert to UTF-8 with `<meta charset="utf-8" />`.
+* Remove "exposición virtual", convert to images.
 
