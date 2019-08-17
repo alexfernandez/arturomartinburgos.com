@@ -22,7 +22,10 @@ x Remove `preloadImages()`.
 x Remove `images/premios.html`.
 x Move `contacta.html` to `/contacta/`.
 x Move `arturo.html` to `/arturo/`.
-* Remove `promote.html`.
+x Remove `promote.html`.
 x Add links to `/escena/index.html`.
 x Use absolute links for `sitemap.html`.
+* Remove useless js in /escena/.
+* Update Copyright.
+* Remove link to ideash.org.
 
