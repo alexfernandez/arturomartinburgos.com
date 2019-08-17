@@ -21,7 +21,8 @@ x Remove `gracias_peq.html`.
 x Remove `preloadImages()`.
 x Remove `images/premios.html`.
 x Move `contacta.html` to `/contacta/`.
-* Move `arturo.html` to `/arturo/`.
+x Move `arturo.html` to `/arturo/`.
 * Remove `promote.html`.
-* Add links to `/escena/index.html`.
+x Add links to `/escena/index.html`.
+* Fix remaining `"pintura/"`.
 
