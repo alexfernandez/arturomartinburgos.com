@@ -1,5 +1,5 @@
 * Remove logo images/logo.nabrom.tiff.
-* Move `_escenog.html` to `escenografia/index.html`.
+* Move `_escenog.html` to `escena/index.html`.
 x Move pintura.html to pintura/index.html.
 * Move objetos.html to objetos/index.html.
 * Move `images/__noticias` to `images/noticias`.
