@@ -5,6 +5,6 @@
 * Move `images/__noticias` to `images/noticias`.
 * Move `images/__eboletines` to `images/eboletines`.
 * Move `images/_pdf` to `images/pdf`.
-* Move `index_1.html` to `index.html`.
+x Move `index_1.html` to `index.html`.
 
 
