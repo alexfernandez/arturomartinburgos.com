@@ -65,12 +65,12 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
 function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
 //-->
 </script>
@@ -92,8 +92,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
               <tr bgcolor="CC9966" background="/images/lines_2_2.jpg"> 
                 <td width="309" height="20" background="/images/lines_2_2.jpg" bgcolor="CC9966"> 
                   <p><font size="2"><strong>/ <img src="/images/spacer.gif">PINTURA</strong></font></p></td>
-                <td width="309" height="20" background="/images/lines_2_2.jpg" bgcolor="CC9966">
-<table width="48%" border="0" align="right" cellpadding="0" cellspacing="0">
+                <td width="309" height="20" background="/images/lines_2_2.jpg" bgcolor="CC9966"> 
+                  <table width="48%" border="0" align="right" cellpadding="0" cellspacing="0">
                     <tr> 
                       <td align="center" bgcolor="#FFFFFF"><font size="2"><img src="/images/ico_home.jpg" width="11" height="9"><a href="../"> 
                         <font size="1">inicio</font></a> <font size="2">|</font> 
@@ -104,7 +104,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
                   </table></td>
               </tr>
               <tr align="right"> 
-                <td height="80" colspan="2" style="padding-top:5px;padding-bottom:9px"> 
+                <td height="72" colspan="2" style="padding-top:5px;padding-bottom:9px"> 
                   <table border="0" cellspacing="0" cellpadding="1">
                     <tr> 
                       <td width="10" align="center" valign="middle"><font color="#666666">Series-</font></td>
@@ -117,7 +117,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
                       <td width="32"><a href="/pintura/reciente.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('navObraReciente','','images/nav_pintura_reciente_roll.jpg',1);MM_swapImage('NavBlank','','images/nav_pintura_reciente_text.jpg',1)"><img src="images/nav_pintura_reciente.jpg" alt="Obra Reciente" name="navObraReciente" width="34" height="34" border="0"></a></td>
                       <td width="110"><img src="images/nav_pintura_blank_text.jpg" name="NavBlank" width="110" height="34" id="NavBlank"></td>
                     </tr>
-                  </table></td>
+                  </table>
+                </td>
               </tr>
               <tr> 
                 <td height="242" colspan="2" valign="top" style="padding-left:4px;padding-bottom:4px;padding-right:3px "> 
@@ -134,63 +135,67 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
                                       <tr> 
                                         <td width="428" align="center"> <table border="0" align="center" cellpadding="0" cellspacing="0" style="margin-left:4px ">
                                             <tr> 
-                                              <td width="298" height="77" valign="top" bgcolor="#F0F0F0"> 
+                                              <td width="298" height="77" bgcolor="#F0F0F0"> 
                                                 <div style="margin-left:12px; margin-top:4px "> 
                                                   <table width="373" border="0" cellpadding="0" cellspacing="4" style="margin-top:3px ">
                                                     <tr> 
-                                                      <td width="36" height="34"  style="border-right:2px solid #c00000 "><img src="images/nav_pintura_nubes.jpg" width="34" height="34"></td>
-                                                      <td width="184" align="center" valign="middle"  style="border-right:2px solid #c00000 "><font size="2"><strong>NUBES</strong></font></td>
-                                                      <td width="129" align="center" valign="middle"> 
-                                                        <div style="margin-left:6px; line-height:10px "><strong>CLIC</strong> 
-                                                          <font size="1">(+)</font>grande<strong> 
-                                                          </strong></div></td>
+                                                      <td width="36"  style="border-right:2px solid #c00000 "><img src="images/nav_pintura_intimidad.jpg" width="34" height="34"></td>
+                                                      <td width="184" align="center" valign="middle"  style="border-right:2px solid #c00000 "><font size="2"><strong>INTIMIDAD</strong></font></td>
                                                     </tr>
                                                   </table>
                                                   <table width="348"  border="0" cellpadding="4" cellspacing="10">
-                                                    <tr align="center" valign="middle"> 
-                                                      <td width="70"><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/5-86%20dip_nubes1.html','NUBES1','width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/5-86%20dip_nubes1_med.jpg',1)"><img src="/images/_nubes/5-86%20dip_nubes1_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                      <td width="70"><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/3-87%20Viaje%20coche.html','viajeencoche','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/3-87%20Viaje%20coche_med.jpg',1)"><img src="/images/_nubes/3-87%20Viaje%20coche_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                      <td width="70"><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/5-86%20dip_nubes2.html','nubes2','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/5-86%20dip_nubes2_med.jpg',1)"><img src="/images/_nubes/5-86%20dip_nubes2_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                      <td width="70"><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/5-86%20dip_nubes4.html','nubes4','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/5-86%20dip_nubes4_med.jpg',1)"><img src="/images/_nubes/5-86%20dip_nubes4_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                    </tr>
-                                                    <tr align="center" valign="middle"> 
-                                                      <td><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/11-86%20casa%20ext2.html','casaext2','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/11-86%20casa%20ext2_med.jpg',1)"><img src="/images/_nubes/11-86%20casa%20ext2_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                      <td><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/11-86%20casa%20grupo.html','casagrupo','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/11-86%20casa%20grupo_med.jpg',1)"><img src="/images/_nubes/11-86%20casa%20grupo_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                      <td><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/11-86%20casa%20int5.html','casaint5','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/11-86%20casa%20int5_med.jpg',1)"><img src="/images/_nubes/11-86%20casa%20int5_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                      <td><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/11-87%20Castilla4.html','castilla4','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/11-87%20Castilla4_med.jpg',1)"><img src="/images/_nubes/11-87%20Castilla4_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                    </tr>
-                                                    <tr align="center" valign="middle"> 
-                                                      <td><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/11-87%20Castilla5.html','castilla5','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/11-87%20Castilla5_med.jpg',1)"><img src="/images/_nubes/11-87%20Castilla5_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                      <td><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/11-87%20Nubes9.html','nubes9','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/11-87%20Nubes9_med.jpg',1)"><img src="/images/_nubes/11-87%20Nubes9_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                      <td><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/11-87%20Nubes10.html','nubes9','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/11-87%20Nubes10_med.jpg',1)"><img src="/images/_nubes/11-87%20Nubes10_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                      <td><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/11-87%20Nubes11.html','nubes9','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/11-87%20Nubes11_med.jpg',1)"><img src="/images/_nubes/11-87%20Nubes11_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                    </tr>
-                                                    <tr align="center" valign="middle"> 
-                                                      <td></td>
-                                                      <td><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/11-88%20Fami_circulo10.html','familiacirc','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/11-88%20Fami_circulo10_med.jpg',1)"><img src="/images/_nubes/11-88%20Fami_circulo10_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                      <td><a href="javascript:;" onClick="MM_openBrWindow('/images/_nubes/0135%20gesto_marino.html','gestosazul','status=yes,resizable=yes,width=810,height=685')" onMouseOver="MM_swapImage('NUBES','','/images/_nubes/0135%20gesto_marino_med.jpg',1)"><img src="/images/_nubes/0135%20gesto_marino_ico.jpg" width="70" height="70" border="0"></a></td>
-                                                      <td><img src="/images/_deporte/_ico_blank.jpg" width="70" height="68"></td>
-                                                    </tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-0.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-1.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-2.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-3.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-4.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-5.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-6.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-7.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-8.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-9.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-10.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-11.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-12.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-13.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-14.jpg"/>
+													</td></tr>
+                                                    <tr align="center" valign="middle"><td>
+															<img src="images/intimidad/intimidad-15.jpg"/>
+													</td></tr>
                                                   </table>
                                                 </div></td>
                                             </tr>
-                                            <tr> 
-                                              <td valign="top" bgcolor="#F0F0F0"></td>
-                                            </tr>
-                                            <tr> 
-                                              <td height="24" valign="top" bgcolor="#F0F0F0"> 
-                                                <div style="margin-left:12px; margin-top:4px "> 
-                                                  <div align="center" style="margin-top:6px "></div>
-                                                </div></td>
-                                            </tr>
                                           </table></td>
-                                      </tr>
-                                    </table></td>
-                                  <td width="415" align="center" valign="top"> 
-                                    <table width="350" height="461" border="0" cellpadding="2" cellspacing="4">
-                                      <tr> 
-                                        <td width="319" height="353" align="center" valign="top" bgcolor="#FFFFFF"> 
-                                          <div align="center"><img src="/images/_nubes/5-86%20dip_nubes1_med.jpg" name="NUBES" width="391" height="378" id="NUBES"></div></td>
                                       </tr>
                                     </table></td>
                                 </tr>
