@@ -31,4 +31,10 @@ x Use absolute links for `sitemap.html`.
 x Convert to UTF-8 with `<meta charset="utf-8" />`.
 * Remove "exposición virtual", convert to images.
 * Remove `MM_reloadPage()` and `MM_openBrWindow()`.
+* Move back `pintura/nav_...` images.
+* Lowercase titles and breadcrumb.
+* Clickable breadcrumb with Home.
+x Move nav images in pintura to `/pintura/images/`.
+x Add `pintura/leo.html` to all nav bars in pintura.
+* Remove roll images in `pintura/images/nav_*`.
 
