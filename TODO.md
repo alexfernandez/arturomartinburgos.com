@@ -37,4 +37,6 @@ x Convert to UTF-8 with `<meta charset="utf-8" />`.
 x Move nav images in pintura to `/pintura/images/`.
 x Add `pintura/leo.html` to all nav bars in pintura.
 * Remove roll images in `pintura/images/nav_*`.
+* Make navigation with larger images, with text.
+* Separate "Intimidad" from `pintura/index.html`.
 
