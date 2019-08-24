@@ -29,7 +29,7 @@ x Use absolute links for `sitemap.html`.
 * Update Copyright.
 * Remove link to ideash.org.
 x Convert to UTF-8 with `<meta charset="utf-8" />`.
-* Remove "exposición virtual", convert to images.
+x Remove "exposición virtual", convert to images.
 * Remove `MM_reloadPage()` and `MM_openBrWindow()`.
 * Move back `pintura/nav_...` images.
 * Lowercase titles and breadcrumb.
@@ -39,4 +39,8 @@ x Add `pintura/leo.html` to all nav bars in pintura.
 * Remove roll images in `pintura/images/nav_*`.
 * Make navigation with larger images, with text.
 x Separate "Intimidad" from `pintura/index.html`.
+* Remove all references to "exposición virtual".
+* Remove personal address.
+* Remove "boletín".
+* Remove sitemap.
 
