@@ -37,7 +37,7 @@ x Remove "exposición virtual", convert to images.
 x Move nav images in pintura to `/pintura/images/`.
 x Add `pintura/leo.html` to all nav bars in pintura.
 * Remove roll images in `pintura/images/nav_*`.
-* Make navigation with larger images, with text.
+x Make navigation with larger images, with text.
 x Separate "Intimidad" from `pintura/index.html`.
 x Remove all references to "exposición virtual".
 x Remove personal address.
