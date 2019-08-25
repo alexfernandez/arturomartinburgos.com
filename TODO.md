@@ -55,6 +55,6 @@
 * ✓ Move prensa into noticias.
 * ✓ Correct links to `/main.css`.
 * ✓ Remove unused `MM_...()` javascript functions.
-* Move "escena" first in CV.
-* Add exhibition in Ciudad de Móstoles to news.
+* ✓ Move "escena" first in CV.
+* ✓ Add exhibition in Ciudad de Móstoles to news.
 
