@@ -48,4 +48,5 @@ x Remove sitemap.
 x Remove `lines_2.jpg` and `bg.jpg` everywhere.
 * Set text over each image in pinturas.
 * Format all images without tables.
+* Remove all videos.
 
