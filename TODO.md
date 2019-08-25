@@ -1,53 +1,53 @@
-x Remove logo images/logo.nabrom.tiff.
-x Move `_escenog.html` to `escena/index.html`.
-x Move pintura.html to pintura/index.html.
-x Move objetos.html to objetos/index.html.
+* ✓ Remove logo images/logo.nabrom.tiff.
+* ✓ Move `_escenog.html` to `escena/index.html`.
+* ✓ Move pintura.html to pintura/index.html.
+* ✓ Move objetos.html to objetos/index.html.
 * Move `images/__noticias` to `images/noticias`.
 * Move `images/__eboletines` to `images/eboletines`.
 * Move `images/_pdf` to `pdf`.
-x Move `index_1.html` to `index.html`.
+* ✓ Move `index_1.html` to `index.html`.
 * Remove obsolete files.
-x Use absolute image links "/images/".
-x Remove `nav.swf`.
-x Remove spaces from logo names.
+* ✓ Use absolute image links "/images/".
+* ✓ Remove `nav.swf`.
+* ✓ Remove spaces from logo names.
 * Remove `/huelva/prensa_huelva.html`.
 * Remove `images/__noticias/atelier_triptico.pdf`.
 * Remove `images/__noticias/exp_mostoles.mp3`.
-x Select and copy `images/_obra reciente/`.
-x Select and copy `images/_intimidad`.
-x Select and copy `images/_musica`.
-x Select and copy `images/_deporte`.
-x Select and copy `images/_objetos`.
-x Remove `contacta_peq.html` & `contacta_peq_info.html`.
-x Remove `gracias_peq.html`.
-x Remove `MM_preloadImages()`.
-x Remove `images/premios.html`.
-x Move `contacta.html` to `/contacta/`.
-x Move `arturo.html` to `/arturo/`.
-x Remove `promote.html`.
-x Add links to `/escena/index.html`.
-x Use absolute links for `sitemap.html`.
+* ✓ Select and copy `images/_obra reciente/`.
+* ✓ Select and copy `images/_intimidad`.
+* ✓ Select and copy `images/_musica`.
+* ✓ Select and copy `images/_deporte`.
+* ✓ Select and copy `images/_objetos`.
+* ✓ Remove `contacta_peq.html` & `contacta_peq_info.html`.
+* ✓ Remove `gracias_peq.html`.
+* ✓ Remove `MM_preloadImages()`.
+* ✓ Remove `images/premios.html`.
+* ✓ Move `contacta.html` to `/contacta/`.
+* ✓ Move `arturo.html` to `/arturo/`.
+* ✓ Remove `promote.html`.
+* ✓ Add links to `/escena/index.html`.
+* ✓ Use absolute links for `sitemap.html`.
 * Remove useless js in /escena/.
 * Update Copyright.
-x Remove link to ideash.org.
-x Convert to UTF-8 with `<meta charset="utf-8" />`.
-x Remove "exposición virtual", convert to images.
+* ✓ Remove link to ideash.org.
+* ✓ Convert to UTF-8 with `<meta charset="utf-8" />`.
+* ✓ Remove "exposición virtual", convert to images.
 * Remove `MM_reloadPage()` and `MM_openBrWindow()`.
 * Move back `pintura/nav_...` images.
 * Lowercase titles and breadcrumb.
 * Clickable breadcrumb with Home.
-x Move nav images in pintura to `/pintura/images/`.
-x Add `pintura/leo.html` to all nav bars in pintura.
+* ✓ Move nav images in pintura to `/pintura/images/`.
+* ✓ Add `pintura/leo.html` to all nav bars in pintura.
 * Remove roll images in `pintura/images/nav_*`.
-x Make navigation with larger images, with text.
-x Separate "Intimidad" from `pintura/index.html`.
-x Remove all references to "exposición virtual".
-x Remove personal address.
-x Remove "boletín".
-x Remove sitemap.
-x Remove `lines_2.jpg` and `bg.jpg` everywhere.
+* ✓ Make navigation with larger images, with text.
+* ✓ Separate "Intimidad" from `pintura/index.html`.
+* ✓ Remove all references to "exposición virtual".
+* ✓ Remove personal address.
+* ✓ Remove "boletín".
+* ✓ Remove sitemap.
+* ✓ Remove `lines_2.jpg` and `bg.jpg` everywhere.
 * Set text over each image in pinturas.
 * Format all images without tables.
-x Remove all videos.
+* ✓ Remove all videos.
 * Make a page for premio MAX 2015.
 
