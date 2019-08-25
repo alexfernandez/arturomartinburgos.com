@@ -50,9 +50,11 @@
 * Format all images without tables.
 * Add year and size to all works.
 * ✓ Remove all videos.
-* Make a page for premio MAX 2015.
+* ✓ Make a page for premio MAX 2015.
 * x Remove legal page.
 * ✓ Move prensa into noticias.
 * ✓ Correct links to `/main.css`.
 * ✓ Remove unused `MM_...()` javascript functions.
+* Move "escena" first in CV.
+* Add exhibition in Ciudad de Móstoles to news.
 
