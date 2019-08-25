@@ -45,7 +45,7 @@ x Remove all references to "exposición virtual".
 x Remove personal address.
 x Remove "boletín".
 x Remove sitemap.
-* Remove `lines_2.jpg` everywhere.
+x Remove `lines_2.jpg` and `bg.jpg` everywhere.
 * Set text over each image in pinturas.
 * Format all images without tables.
 
