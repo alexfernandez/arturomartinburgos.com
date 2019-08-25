@@ -32,7 +32,7 @@
 * ✓ Remove link to ideash.org.
 * ✓ Convert to UTF-8 with `<meta charset="utf-8" />`.
 * ✓ Remove "exposición virtual", convert to images.
-* Remove `MM_reloadPage()` and `MM_openBrWindow()`.
+* ✓ Remove `MM_reloadPage()` and `MM_openBrWindow()`.
 * Move back `pintura/nav_...` images.
 * Lowercase titles and breadcrumb.
 * Clickable breadcrumb with Home.
