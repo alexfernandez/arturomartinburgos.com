@@ -2,17 +2,17 @@
 * ✓ Move `_escenog.html` to `escena/index.html`.
 * ✓ Move pintura.html to pintura/index.html.
 * ✓ Move objetos.html to objetos/index.html.
-* Move `images/__noticias` to `images/noticias`.
-* Move `images/__eboletines` to `images/eboletines`.
-* Move `images/_pdf` to `pdf`.
+* ✓ Move `images/__noticias` to `images/noticias`.
+* x Move `images/__eboletines` to `images/eboletines`.
+* ✓ Move `images/_pdf` to `pdf`.
 * ✓ Move `index_1.html` to `index.html`.
-* Remove obsolete files.
+* ? Remove obsolete files.
 * ✓ Use absolute image links "/images/".
 * ✓ Remove `nav.swf`.
 * ✓ Remove spaces from logo names.
-* Remove `/huelva/prensa_huelva.html`.
-* Remove `images/__noticias/atelier_triptico.pdf`.
-* Remove `images/__noticias/exp_mostoles.mp3`.
+* ✓ Remove `/huelva/prensa_huelva.html`.
+* ✓ Remove `images/__noticias/atelier_triptico.pdf`.
+* ✓ Remove `images/__noticias/exp_mostoles.mp3`.
 * ✓ Select and copy `images/_obra reciente/`.
 * ✓ Select and copy `images/_intimidad`.
 * ✓ Select and copy `images/_musica`.
@@ -34,7 +34,8 @@
 * ✓ Remove "exposición virtual", convert to images.
 * ✓ Remove `MM_reloadPage()` and `MM_openBrWindow()`.
 * Move back `pintura/nav_...` images.
-* Lowercase titles and breadcrumb.
+* Lowercase titles.
+* ✓ Add breadcrumb.
 * Clickable breadcrumb with Home.
 * ✓ Move nav images in pintura to `/pintura/images/`.
 * ✓ Add `pintura/leo.html` to all nav bars in pintura.
