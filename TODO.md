@@ -35,8 +35,7 @@
 * ✓ Remove `MM_reloadPage()` and `MM_openBrWindow()`.
 * Move back `pintura/nav_...` images.
 * ✓ Lowercase titles.
-* ✓ Add breadcrumb.
-* Clickable breadcrumb with Home.
+* ✓ Clickable breadcrumb with Home.
 * ✓ Move nav images in pintura to `/pintura/images/`.
 * ✓ Add `pintura/leo.html` to all nav bars in pintura.
 * Remove roll images in `pintura/images/nav_*`.
@@ -49,6 +48,7 @@
 * ✓ Remove `lines_2.jpg` and `bg.jpg` everywhere.
 * Set text over each image in pinturas.
 * Format all images without tables.
+* Add year and size to all works.
 * ✓ Remove all videos.
 * Make a page for premio MAX 2015.
 * x Remove legal page.
