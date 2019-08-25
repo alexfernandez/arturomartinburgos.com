@@ -50,7 +50,7 @@
 * Format all images without tables.
 * ✓ Remove all videos.
 * Make a page for premio MAX 2015.
-* Remove legal page.
-* Move prensa into noticias.
-* Correct links to `/main.css`.
+* x Remove legal page.
+* ✓ Move prensa into noticias.
+* ✓ Correct links to `/main.css`.
 
