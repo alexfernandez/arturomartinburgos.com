@@ -53,4 +53,5 @@
 * x Remove legal page.
 * ✓ Move prensa into noticias.
 * ✓ Correct links to `/main.css`.
+* ✓ Remove unused `MM_...()` javascript functions.
 
