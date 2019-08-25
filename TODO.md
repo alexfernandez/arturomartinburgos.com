@@ -44,5 +44,8 @@ x Separate "Intimidad" from `pintura/index.html`.
 x Remove all references to "exposición virtual".
 x Remove personal address.
 x Remove "boletín".
-* Remove sitemap.
+x Remove sitemap.
+* Remove `lines_2.jpg` everywhere.
+* Set text over each image in pinturas.
+* Format all images without tables.
 
