@@ -13,10 +13,11 @@ x Remove spaces from logo names.
 * Remove `/huelva/prensa_huelva.html`.
 * Remove `images/__noticias/atelier_triptico.pdf`.
 * Remove `images/__noticias/exp_mostoles.mp3`.
-* Select and copy `images/_obra reciente/`.
-* Select and copy `images/_intimidad`.
+x Select and copy `images/_obra reciente/`.
+x Select and copy `images/_intimidad`.
 * Select and copy `images/_musica`.
-* Select and copy `images/_objetos`.
+* Select and copy `images/_deporte`.
+x Select and copy `images/_objetos`.
 x Remove `contacta_peq.html` & `contacta_peq_info.html`.
 x Remove `gracias_peq.html`.
 x Remove `MM_preloadImages()`.
