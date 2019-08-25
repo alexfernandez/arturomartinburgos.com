@@ -49,4 +49,5 @@ x Remove `lines_2.jpg` and `bg.jpg` everywhere.
 * Set text over each image in pinturas.
 * Format all images without tables.
 x Remove all videos.
+* Make a page for premio MAX 2015.
 
