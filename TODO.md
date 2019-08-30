@@ -27,7 +27,7 @@
 * ✓ Remove `promote.html`.
 * ✓ Add links to `/escena/index.html`.
 * ✓ Use absolute links for `sitemap.html`.
-* Remove useless js in /escena/.
+* x Remove useless js in /escena/.
 * Update Copyright.
 * ✓ Remove link to ideash.org.
 * ✓ Convert to UTF-8 with `<meta charset="utf-8" />`.
@@ -57,4 +57,5 @@
 * ✓ Remove unused `MM_...()` javascript functions.
 * ✓ Move "escena" first in CV.
 * ✓ Add exhibition in Ciudad de Móstoles to news.
+* ✓ Move `/arturo/` to `/bio/`.
 
