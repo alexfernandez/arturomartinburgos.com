@@ -61,11 +61,13 @@
 	h2
 	{
 		font-size: 2.85em;
+		margin: 0.5em 0 0.5em 0;
 	}
 	
 	h3
 	{
 		font-size: 1.25em;
+		margin: 0.25em 0 0.25em 0;
 	}
 	
 	h4
@@ -234,6 +236,11 @@
 		}
 
 	/* Image */
+
+		img {
+			vertical-align: top;
+			padding: 0.1em;
+		}
 
 		.image
 		{
