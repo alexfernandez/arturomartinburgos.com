@@ -8,6 +8,8 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
+@media (max-width: 50em) {
+
 	body,input,textarea,select
 	{
 		font-size: 13pt;
@@ -48,3 +50,6 @@
 			width: 18em;
 			margin: 0 1em 0 0;
 		}
+
+}
+
