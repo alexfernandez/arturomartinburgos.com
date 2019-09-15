@@ -33,7 +33,7 @@
 * ✓ Convert to UTF-8 with `<meta charset="utf-8" />`.
 * ✓ Remove "exposición virtual", convert to images.
 * ✓ Remove `MM_reloadPage()` and `MM_openBrWindow()`.
-* Move back `pintura/nav_...` images.
+* x Move back `pintura/nav_...` images.
 * ✓ Lowercase titles.
 * ✓ Clickable breadcrumb with Home.
 * ✓ Move nav images in pintura to `/pintura/images/`.
@@ -59,4 +59,5 @@
 * ✓ Add exhibition in Ciudad de Móstoles to news.
 * ✓ Move `/arturo/` to `/bio/`.
 * ✓ Remove starting animation.
+* ✓ Place latest news in separate page.
 
