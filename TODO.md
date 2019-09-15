@@ -58,4 +58,5 @@
 * ✓ Move "escena" first in CV.
 * ✓ Add exhibition in Ciudad de Móstoles to news.
 * ✓ Move `/arturo/` to `/bio/`.
+* ✓ Remove starting animation.
 
