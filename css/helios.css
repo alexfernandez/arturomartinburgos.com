@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
-@import url("fontawesome-all.min.css");
 
 /*
 	Helios by HTML5 UP
@@ -1785,7 +1784,7 @@ input, select, textarea {
 		outline: 0;
 	}
 
-		.image img {
+		img {
 			display: block;
 			width: 100%;
 		}
@@ -2176,7 +2175,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../images/header.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2248,7 +2247,7 @@ input, select, textarea {
 
 	body.homepage #header {
 		height: 50vh;
-		min-height: 10em;
+		min-height: 25em;
 	}
 
 		body.homepage #header h1 {
