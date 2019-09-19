@@ -2912,7 +2912,7 @@ input, select, textarea {
 					#navButton .toggle:before {
 						text-decoration: none;
 						font-style: normal;
-						content: '\f0c9';
+						content: '≡';
 						color: #fff;
 						color: rgba(255, 255, 255, 0.75);
 						text-align: center;
@@ -2956,7 +2956,7 @@ input, select, textarea {
 			}
 
 				#navPanel:before {
-					content: 'churro';
+					content: '';
 					display: block;
 					position: absolute;
 					left: 0;
