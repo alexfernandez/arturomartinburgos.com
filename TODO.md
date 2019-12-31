@@ -62,4 +62,4 @@
 * ✓ Place latest news in separate page.
 * ✓ Added news for 2020.
 * ✓ Moved objetos to inside pintura.
-
+* ✓ Smaller titles.
