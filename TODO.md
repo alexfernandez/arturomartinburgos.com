@@ -60,4 +60,6 @@
 * ✓ Move `/arturo/` to `/bio/`.
 * ✓ Remove starting animation.
 * ✓ Place latest news in separate page.
+* ✓ Added news for 2020.
+* ✓ Moved objetos to inside pintura.
 
