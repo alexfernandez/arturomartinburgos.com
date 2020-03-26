@@ -2175,11 +2175,12 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../images/header.jpg");
+		background: #c8c18f;
+		background-image: url("/images/background.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
-		color: #fff;
+		color: #000;
 		text-align: center;
 		padding: 3em 0 2em 0;
 		cursor: default;
@@ -2207,12 +2208,15 @@ input, select, textarea {
 			#header header > p {
 				font-size: 2em;
 				margin: 0;
+				font-weight: bold;
+				color: #333;
 			}
 
 		#header h1 {
+			background: #0003;
+			padding: 0.5em;
 			color: #fff;
 			font-size: 3em;
-			line-height: 1em;
 		}
 
 			#header h1 a {
@@ -2459,8 +2463,12 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		padding: 6em 0 6em 0;
-		background: #2b252c;
-		color: #fff;
+		background: #c8c18f;
+		background-image: url("/images/background.jpg");
+		background-size: cover;
+		background-position: center center;
+		background-attachment: fixed;
+		color: #000;
 	}
 
 		#footer .icon.circled {
@@ -2488,17 +2496,17 @@ input, select, textarea {
 
 		#footer .copyright {
 			text-align: center;
-			color: rgba(128, 128, 128, 0.75);
+			color: #000;
 			font-size: 0.8em;
 			cursor: default;
 		}
 
 			#footer .copyright a {
-				color: rgba(128, 128, 128, 0.75);
+				color: #000;
 			}
 
 				#footer .copyright a:hover {
-					color: rgba(212, 212, 212, 0.85);
+					color: #008;
 				}
 
 /* Carousel */
