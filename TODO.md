@@ -72,4 +72,5 @@
 * ✓ Center footer.
 * ✓ Add large image of Arturo to bio.
 * ✓ Use <dl> for bio.
+* ✓ Add favicon.ico icon.
 
