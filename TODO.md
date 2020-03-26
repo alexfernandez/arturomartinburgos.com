@@ -1,3 +1,5 @@
+# 2019
+
 * ✓ Remove logo images/logo.nabrom.tiff.
 * ✓ Move `_escenog.html` to `escena/index.html`.
 * ✓ Move pintura.html to pintura/index.html.
@@ -63,3 +65,10 @@
 * ✓ Added news for 2020.
 * ✓ Moved objetos to inside pintura.
 * ✓ Smaller titles.
+
+# 2020
+
+* ✓ Use painting as background.
+* ✓ Center footer.
+* ✓ Add large image of Arturo to bio.
+
