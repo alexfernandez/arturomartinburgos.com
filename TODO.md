@@ -73,4 +73,6 @@
 * ✓ Add large image of Arturo to bio.
 * ✓ Use <dl> for bio.
 * ✓ Add favicon.ico icon.
+* ✓ Added bio for 2020, updated CV.
+* ✓ New escena for 2020.
 
