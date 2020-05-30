@@ -75,4 +75,5 @@
 * ✓ Add favicon.ico icon.
 * ✓ Added bio for 2020, updated CV.
 * ✓ New escena for 2020.
+* ✓ Added curso de pintura abstracta.
 
