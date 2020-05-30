@@ -1787,37 +1787,43 @@ input, select, textarea {
 		outline: 0;
 	}
 
-		img {
-			display: block;
-			max-width: 100%;
-			padding: 1em 0em;
-		}
+	img {
+		display: block;
+		max-width: 100%;
+		padding: 1em 0em;
+	}
 
-		.image.fit {
-			display: block;
-			width: 100%;
-		}
+	.image.fit {
+		display: block;
+		width: 100%;
+	}
 
-		.image.featured {
-			display: block;
-			width: 100%;
-			margin: 0 0 4em 0;
-		}
+	.image.featured {
+		display: block;
+		width: 100%;
+		margin: 0 0 4em 0;
+	}
 
-		.image.left {
-			float: left;
-			margin: 0 2em 2em 0;
-		}
+	.image.left {
+		float: left;
+		margin: 0 2em 2em 0;
+	}
 
-		.image.centered {
-			display: block;
-			margin: 0 0 2em 0;
-		}
+	.image.centered {
+		display: block;
+		margin: 0 0 2em 0;
+	}
 
-			.image.centered img {
-				margin: 0 auto;
-				width: auto;
-			}
+	.image.centered img {
+		margin: 0 auto;
+		width: auto;
+	}
+
+	iframe.video {
+		width: 560px;
+		height:auto;
+		max-width: 100%;
+	}
 
 /* List */
 
