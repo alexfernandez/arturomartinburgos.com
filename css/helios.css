@@ -146,7 +146,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: inherit;
+		color: #8e5a53;
 		border-bottom: solid 1px rgba(128, 128, 128, 0.15);
 		text-decoration: none;
 		-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
