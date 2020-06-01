@@ -1820,8 +1820,6 @@ input, select, textarea {
 	}
 
 	iframe.video {
-		width: 560px;
-		height:auto;
 		max-width: 100%;
 	}
 
