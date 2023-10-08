@@ -1823,6 +1823,10 @@ input, select, textarea {
 		max-width: 100%;
 	}
 
+	video {
+		max-width: 100%;
+	}
+
 /* List */
 
 	ul {
