@@ -228,6 +228,10 @@ input, select, textarea {
 		font-size: 0.8em;
 	}
 
+	.local-video {
+		max-width: 100%;
+	}
+
 /* Container */
 
 	.container {
@@ -1820,10 +1824,6 @@ input, select, textarea {
 	}
 
 	iframe.video {
-		max-width: 100%;
-	}
-
-	video {
 		max-width: 100%;
 	}
 
