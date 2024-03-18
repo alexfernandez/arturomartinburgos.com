@@ -2188,7 +2188,7 @@ input, select, textarea {
 	#header {
 		position: relative;
 		background: #c8c18f;
-		background-image: url("/images/background.jpg");
+		background-image: url("/images/new-background.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2198,12 +2198,12 @@ input, select, textarea {
 		cursor: default;
 	}
 
-		#header:before {
-			content: '';
-			display: inline-block;
-			vertical-align: middle;
-			height: 100%;
-		}
+	#header:before {
+		content: '';
+		display: inline-block;
+		vertical-align: middle;
+		height: 100%;
+	}
 
 		#header .inner {
 			position: relative;
@@ -2476,7 +2476,7 @@ input, select, textarea {
 		overflow: hidden;
 		padding: 6em 0 6em 0;
 		background: #c8c18f;
-		background-image: url("/images/background.jpg");
+		background-image: url("/images/new-background.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
