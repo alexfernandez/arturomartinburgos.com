@@ -3154,3 +3154,17 @@ input, select, textarea {
 					}
 
 	}
+
+/* Obras de la portada */
+.recent-artwork {
+	margin: 0 0 3em;
+}
+
+.recent-artwork img {
+	margin: 0 auto;
+	height: auto;
+}
+
+.recent-artwork figcaption {
+	text-align: center;
+}
