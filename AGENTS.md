@@ -4,6 +4,12 @@
 
 Web personal de Arturo Martín Burgos. Hablar con el usuario en español y explicar los resultados brevemente. Aplicar las peticiones de contenido con cambios pequeños, sin rediseños ni migraciones no solicitadas. Las instrucciones actuales del usuario prevalecen sobre esta guía.
 
+### Consultas y decisiones
+
+El usuario ha pedido expresamente que no se tomen decisiones importantes sin consultarle y que se consulte siempre cualquier duda. Esta preferencia se mantiene en futuras sesiones. Ante una ambigüedad, información insuficiente o alternativas cuyo resultado pueda variar, preguntar antes de actuar sobre la parte afectada; no resolver la duda mediante suposiciones. Consultar antes de decidir cambios importantes de contenido, diseño, estructura, alcance, dependencias, alojamiento o configuración, así como eliminaciones o acciones difíciles de revertir. Mientras se espera respuesta, se puede revisar información y avanzar en trabajo independiente ya acordado.
+
+La subida automática sigue autorizada para cambios solicitados, completados y comprobados: no requiere una nueva confirmación por sí misma. Esa autorización no permite tomar decisiones importantes ni resolver dudas sin consultar. Si queda una duda pendiente sobre un cambio, resolverla con el usuario antes de implementarlo o subirlo.
+
 ## Arquitectura y estructura
 
 Sitio estático de HTML, CSS y JavaScript, basado en Helios de HTML5 UP. No hay package.json, gestor de dependencias, compilación, backend propio ni suite de pruebas. Los archivos del repositorio son los que se sirven. `.nojekyll` evita el procesamiento de Jekyll.
