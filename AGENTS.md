@@ -38,7 +38,7 @@ Mantener UTF-8, acentos, rutas y estilo del archivo. No normalizar todos los fin
 
 Decisiones actuales del usuario (septiembre de 2026):
 
-- «Curso» está oculto mediante comentarios HTML en los 19 menús donde aparecía. No borrar el contenido de `cursos/` ni reactivar el enlace sin petición.
+- El menú común de todas las páginas sigue este orden: PINTURA | EXPOSICIONES | ESCENA | BIOGRAFÍA | CONTACTO. EXPOSICIONES enlaza a `/exposiciones/`. Curso no figura en el menú; no borrar `cursos/` ni reactivar el enlace sin petición.
 - La biografía presenta primero Pintura y después Escenografía, con sus textos completos.
 - El CV publicado en `bio/cv-arturo-martin-burgos.pdf` es el archivo proporcionado como «CV Pintura_Teatro 2026.pdf». Para próximas sustituciones, conservar esta URL salvo petición contraria y comprobar que la copia coincide con el archivo recibido. No depender de la ruta original del escritorio.
 
