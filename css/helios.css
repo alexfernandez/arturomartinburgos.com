@@ -3204,3 +3204,13 @@ input, select, textarea {
 	.exhibition-gallery { grid-template-columns: 1fr; gap: 1.5em; }
 	.exhibition-catalog .button { white-space: normal; }
 }
+
+/* Títulos de las cinco secciones principales */
+#header header > p.section-title {
+	font-size: clamp(1.8rem, 4.8vw, 3.75rem);
+	line-height: 1.2;
+	font-weight: 600;
+	color: rgba(255, 255, 255, 0.7);
+	text-transform: uppercase;
+	padding: 0 0.25em;
+}
