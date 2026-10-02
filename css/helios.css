@@ -3214,3 +3214,15 @@ input, select, textarea {
 	text-transform: uppercase;
 	padding: 0 0.25em;
 }
+
+/* Series de pintura: obras completas en espacios de tamaño uniforme. */
+.painting-gallery > img,
+.painting-gallery > a > img {
+	width: 100%;
+	max-width: 960px;
+	height: auto;
+	aspect-ratio: 3 / 2;
+	object-fit: contain;
+	padding: 0;
+	margin: 1.5em auto 3em;
+}
