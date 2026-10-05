@@ -81,3 +81,7 @@ No asumir que un push actualiza el dominio principal, ni atribuirlo automáticam
 ## Elementos heredados a tener presentes
 
 El formulario de contacto envía a `http://forms.melodysoft.com` y configura una redirección a `/gracias.html`, distinta de `contacta/gracias.html`. No se ha verificado su funcionamiento; no enviar formularios reales como prueba sin autorización. Hay Google Fonts, vídeos de YouTube y un contador de librecounter.org como dependencias externas. No limpiar archivos históricos ni corregir enlaces ajenos a la tarea sin necesidad.
+
+## Retirada de Noticias (5 de octubre de 2026)
+
+El usuario ha solicitado eliminar completamente Noticias, incluido el acceso directo en el dominio principal. Los HTML de `noticias/` son únicamente redirecciones al inicio; no reintroducir contenido ni enlaces a esta sección. Se retiraron sus recursos exclusivos y las fotografías usadas por la portada y EXPOSICIONES se trasladaron a `exposiciones/images/`. El dominio `www.arturomartinburgos.com` seguía respondiendo desde Aruba: comprobar su actualización por separado de GitHub Pages.
