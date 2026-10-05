@@ -3226,3 +3226,11 @@ input, select, textarea {
 	padding: 0;
 	margin: 1.5em auto 3em;
 }
+
+/* Títulos de obras de escenografía. */
+.stage-works > h3 {
+	font-size: clamp(1.6rem, 3vw, 2.5rem);
+	font-weight: 600;
+	line-height: 1.25;
+	margin-bottom: 0.65em;
+}
