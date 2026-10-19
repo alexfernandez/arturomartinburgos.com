@@ -3243,3 +3243,22 @@ input, select, textarea {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+/* Cabeceras principales: mismas dimensiones que la portada. */
+body.homepage #header.main-section-header {
+	height: 50vh;
+	min-height: 25em;
+	background-attachment: scroll;
+	background-size: cover;
+	background-position: center;
+}
+@media screen and (max-width: 736px) {
+	body.homepage #header.main-section-header {
+		height: 25em;
+		padding: 4em 1em 2em;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	#header.main-section-header .inner { padding: 0; }
+}
