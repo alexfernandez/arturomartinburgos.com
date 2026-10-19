@@ -3262,3 +3262,14 @@ body.homepage #header.main-section-header {
 	}
 	#header.main-section-header .inner { padding: 0; }
 }
+
+/* Nombre del artista en las cinco pestañas; portada independiente. */
+body.homepage #header.section-header h1 {
+	font-size: calc(3em - 3pt);
+	color: rgba(255, 255, 255, 0.9);
+}
+@media screen and (max-width: 736px) {
+	body.homepage #header.section-header h1 {
+		font-size: calc(2.5em - 3pt);
+	}
+}
