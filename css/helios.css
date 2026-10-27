@@ -3273,3 +3273,8 @@ body.homepage #header.section-header h1 {
 		font-size: calc(2.5em - 3pt);
 	}
 }
+
+/* Letras blancas en la navegación de todas las páginas. */
+#nav > ul > li > a, #nav > ul > li > span, #navPanel .link {
+	color: #fff;
+}
