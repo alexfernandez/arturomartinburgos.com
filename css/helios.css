@@ -3278,3 +3278,9 @@ body.homepage #header.section-header h1 {
 #nav > ul > li > a, #nav > ul > li > span, #navPanel .link {
 	color: #fff;
 }
+
+/* Menú sobre la banda clara de las cinco cabeceras de sección. */
+#header.section-header #nav > ul > li > a,
+#header.section-header #nav > ul > li > span {
+	color: #000;
+}
