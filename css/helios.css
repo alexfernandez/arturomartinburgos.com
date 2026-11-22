@@ -3284,3 +3284,10 @@ body.homepage #header.section-header h1 {
 #header.section-header #nav > ul > li > span {
 	color: #000;
 }
+
+/* Cada obra de Éclairs mantiene unido el cuadro a su ficha. */
+.painting-gallery .series-artwork { margin: 0 auto 4em; max-width: 960px; }
+.painting-gallery .series-artwork img { display: block; width: 100%; height: auto; aspect-ratio: auto; padding: 0; margin: 0; }
+.painting-gallery .series-artwork figcaption { padding-top: 0.3em; }
+.painting-gallery .series-artwork h3 { padding: 0; margin: 0; }
+.painting-gallery .series-artwork p { padding: 0; margin: 0.25em 0 0; }
