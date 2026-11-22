@@ -3291,3 +3291,8 @@ body.homepage #header.section-header h1 {
 .painting-gallery .series-artwork figcaption { padding-top: 0.3em; }
 .painting-gallery .series-artwork h3 { padding: 0; margin: 0; }
 .painting-gallery .series-artwork p { padding: 0; margin: 0.25em 0 0; }
+
+/* Las fotos originales contienen bandas blancas: ocultarlas sin alterar la obra. */
+.series-artwork .artwork-image { position: relative; overflow: hidden; width: 100%; }
+.painting-gallery .series-artwork .artwork-image img { position: absolute; top: 0; left: 0; }
+.painting-gallery .series-artwork figcaption { padding-top: 1em; text-align: left; }
